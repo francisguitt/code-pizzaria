@@ -37,21 +37,22 @@ No carrinho, após adicionar os itens desejados, o usuário pode clicar no botã
 
 code-pizzaria/
 ├── src/
-│   ├── app/                   
-│   │   ├── api/               
+│   ├── app/
+│   │   ├── api/
 │   │   │   └── page.tsx
-│   │   ├── cart/              
+│   │   ├── cart/
 │   │   │   └── page.jsx
-│   │   ├── globals.css        
-│   │   ├── layout.tsx        
-│   │   └── page.tsx           
-│   ├── components/            
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── components/
 │   │   ├── CartButton.tsx
 │   │   ├── CartItems.tsx
 │   │   ├── Footer.tsx
 │   │   ├── Header.tsx
 │   │   └── MenuItems.tsx
-└── public/                
+└── public/
+           
 
 🤝 Contribuição
 Sinta-se à vontade para contribuir! Faça um fork do projeto, crie uma branch para suas alterações, e envie um pull request.
