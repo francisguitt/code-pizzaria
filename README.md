@@ -18,7 +18,7 @@ Code Pizzaria é um projeto de cardápio online desenvolvido para uma pizzaria. 
 
 1. Clone o repositório:
 
-   git clone https://github.com/seu-usuario/code-pizzaria.git
+   git clone https://github.com/francisguitt/code-pizzaria.git
    cd code-pizzaria
    
 Instale as dependências:
