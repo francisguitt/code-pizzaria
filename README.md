@@ -1,4 +1,4 @@
-# Code Pizzaria 🍕
++# Code Pizzaria 🍕
 
 Code Pizzaria é um projeto de cardápio online desenvolvido para uma pizzaria. Os clientes podem visualizar o menu, adicionar itens ao carrinho e enviar o pedido diretamente para o WhatsApp da pizzaria. Este projeto foi criado com **Next.js 14**, **TypeScript**, e **Tailwind CSS**.
 
